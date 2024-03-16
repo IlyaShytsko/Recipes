@@ -25,7 +25,7 @@ Opening the Project
 -----
 Navigate to the project directory.
 
-Open the file project Weather.xcodeproj in Xcode.
+Open the file project RecipesCodingChallenge.xcodeproj in Xcode.
 
 
 
