@@ -1,4 +1,4 @@
-# Weather
+# Recipes
  ===============
 
 Welcome to the project! This README file provides simple instructions on how to set up and run the project on your local machine.
