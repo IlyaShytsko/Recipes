@@ -59,9 +59,14 @@ Conventions, architecture, and general considerations
 
 ### Networking
 
-- **Alamofire**: Network requests are made using the popular Alamofire library.
-- **ApiRouter**: Facilitates convenient interaction with various endpoints.
+- **ApiClient and ApiRouter**: Facilitates convenient interaction with various endpoints.
+- **Alamofire**: Network requests are made using Alamofire library.
 - **Kingfisher**: Images in cells are loaded and cached for reuse with the Kingfisher library.
+
+### Dependency Manager
+The project utilizes Swift Package Manager (SPM) as the dependency manager for incorporating various libraries essential for its development. Here is a list of the libraries used in the project:
+- **Alamofire**
+- **Kingfisher**
 
 ### UI Components
 
